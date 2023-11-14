@@ -1,0 +1,100 @@
+[
+  {
+    "id": "1",
+    "image": "https://i.ibb.co/2nqB5MV/Clothing.png",
+    "phone_name": "iPhone 14 Pro Max",
+    "brand_name": "Apple",
+    "price": 799.99,
+    "rating": 4.7
+  },
+  {
+    "id": "2",
+    "image": "https://i.ibb.co/D59DknS/Education.png",
+    "phone_name": "iPhone 14 Pro",
+    "brand_name": "Apple",
+    "price": 899.99,
+    "rating": 4.9
+  },
+  {
+    "id": "3",
+    "image": "https://i.ibb.co/hs0YbF7/Food.png",
+    "phone_name": "iPhone 12",
+    "brand_name": "Apple",
+    "price": 999.99,
+    "rating": 3.5
+  },
+  {
+    "id": "4",
+    "image": "https://i.ibb.co/Qj7WK66/Health.png",
+    "phone_name": "iPhone 12 Pro Max",
+    "brand_name": "Apple",
+    "price": 699.99,
+    "rating": 4.5
+  },
+  {
+    "id": "5",
+    "image": "https://i.ibb.co/thfDCNb/Rectangle-4287-1.png",
+    "phone_name": "Samsung Galaxy S21",
+    "brand_name": "Samsung",
+    "price": 899.99,
+    "rating": 2.9
+  },
+  {
+    "id": "6",
+    "image": "https://i.ibb.co/bFmDSjb/Rectangle-4287-2.png",
+    "phone_name": "Samsung Galaxy F23",
+    "brand_name": "Samsung",
+    "price": 1099.99,
+    "rating": 5.0
+  },
+  {
+    "id": "7",
+    "image": "https://i.ibb.co/4VbFV0H/Rectangle-4284.png",
+    "phone_name": "Samsung Galaxy A33",
+    "brand_name": "Samsung",
+    "price": 999.99,
+    "rating": 4.7
+  },
+  {
+    "id": "8",
+    "image": "https://i.ibb.co/CQX2kSv/Rectangle-4288.png",
+    "phone_name": "Samsung Galaxy Note 5",
+    "brand_name": "Samsung",
+    "price": 999.99,
+    "rating": 4.7
+  },
+  
+
+  {
+    "id": "9",
+    "image": "https://i.ibb.co/bFmDSjb/Rectangle-4287-2.png",
+    "phone_name": "Xiaomi Redmi 11",
+    "brand_name": "Xiaomi",
+    "price": 1199.99,
+    "rating": 4.8
+  },
+  {
+    "id": "10",
+    "image": "https://i.ibb.co/Qj7WK66/Health.png",
+    "phone_name": "Xiaomi Redmi Note",
+    "brand_name": "Xiaomi",
+    "price": 1299.99,
+    "rating": 3.9
+  },
+  {
+    "id": "11",
+    "image": "https://i.ibb.co/D59DknS/Education.png",
+    "phone_name": "Xiaomi Redmi 10A",
+    "brand_name": "Xiaomi",
+    "price": 1099.99,
+    "rating": 4.7
+  },
+  {
+    "id": "12",
+    "image": "https://i.ibb.co/hs0YbF7/Food.png",
+    "phone_name": "Redmi 12C",
+    "brand_name": "Xiaomi",
+    "price": 1399.99,
+    "rating": 4.8
+  }
+]
