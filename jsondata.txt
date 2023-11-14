@@ -1,8 +1,7 @@
 [
   {
-    "id": "1",
-    "image": "https://i.ibb.co/2nqB5MV/Clothing.png",
-   "title": "Modern Living Room Set",
+    "picture": "image1.jpg",
+    "title": "Modern Living Room Set",
     "category": "Furniture",
     "category_bg_color": "#3498db",
     "card_bg_color": "#ecf0f1",
@@ -11,9 +10,8 @@
     "price": "$899.99"
   },
   {
-    "id": "2",
-    "image": "https://i.ibb.co/D59DknS/Education.png",
-   "title": "Classic Leather Sofa",
+    "picture": "image2.jpg",
+    "title": "Classic Leather Sofa",
     "category": "Furniture",
     "category_bg_color": "#3498db",
     "card_bg_color": "#ecf0f1",
@@ -22,9 +20,8 @@
     "price": "$599.99"
   },
   {
-    "id": "3",
-    "image": "https://i.ibb.co/hs0YbF7/Food.png",
-   "title": "Cozy Bedroom Decor Set",
+    "picture": "image6.jpg",
+    "title": "Cozy Bedroom Decor Set",
     "category": "Home Decor",
     "category_bg_color": "#e67e22",
     "card_bg_color": "#f9e79f",
@@ -33,8 +30,7 @@
     "price": "$299.99"
   },
   {
-    "id": "4",
-    "image": "https://i.ibb.co/Qj7WK66/Health.png",
+    "picture": "image7.jpg",
     "title": "Outdoor Adventure Gear",
     "category": "Sports & Outdoors",
     "category_bg_color": "#e67e22",
@@ -44,9 +40,8 @@
     "price": "$199.99"
   },
   {
-    "id": "5",
-    "image": "https://i.ibb.co/thfDCNb/Rectangle-4287-1.png",
-     "title": "Gourmet Kitchen Appliances",
+    "picture": "image3.jpg",
+    "title": "Gourmet Kitchen Appliances",
     "category": "Appliances",
     "category_bg_color": "#e74c3c",
     "card_bg_color": "#f5b7b1",
@@ -55,8 +50,7 @@
     "price": "$1299.99"
   },
   {
-    "id": "6",
-    "image": "https://i.ibb.co/bFmDSjb/Rectangle-4287-2.png",
+    "picture": "image10.jpg",
     "title": "Healthy Meal Prep Cookbook",
     "category": "Books",
     "category_bg_color": "#3498db",
@@ -66,9 +60,8 @@
     "price": "$19.99"
   },
   {
-    "id": "7",
-    "image": "https://i.ibb.co/4VbFV0H/Rectangle-4284.png",
-     "title": "Professional DSLR Camera",
+    "picture": "image8.jpg",
+    "title": "Professional DSLR Camera",
     "category": "Electronics",
     "category_bg_color": "#2ecc71",
     "card_bg_color": "#a9dfbf",
@@ -77,8 +70,7 @@
     "price": "$1499.99"
   },
   {
-    "id": "8",
-    "image": "https://i.ibb.co/CQX2kSv/Rectangle-4288.png",
+    "picture": "image9.jpg",
     "title": "Artisan Handcrafted Jewelry",
     "category": "Fashion",
     "category_bg_color": "#9b59b6",
@@ -87,12 +79,9 @@
     "description": "Elevate your style with unique, handcrafted jewelry pieces. Each one tells a story.",
     "price": "$129.99"
   },
-  
-
   {
-    "id": "9",
-    "image": "https://i.ibb.co/bFmDSjb/Rectangle-4287-2.png",
-      "title": "Smart Home Security System",
+    "picture": "image4.jpg",
+    "title": "Smart Home Security System",
     "category": "Electronics",
     "category_bg_color": "#2ecc71",
     "card_bg_color": "#a9dfbf",
@@ -101,9 +90,18 @@
     "price": "$349.99"
   },
   {
-    "id": "10",
-    "image": "https://i.ibb.co/Qj7WK66/Health.png",
-   "title": "Fitness Tracker Watch",
+    "picture": "image11.jpg",
+     "title": "Smart Home Security System",
+    "category": "Electronics",
+    "category_bg_color": "#2ecc71",
+    "card_bg_color": "#a9dfbf",
+    "text_button_bg_color": "#27ae60",
+    "description": "Protect your home with the latest smart security system. Monitor and control from anywhere.",
+    "price": "$349.99"
+  },
+  {
+    "picture": "image5.jpg",
+    "title": "Fitness Tracker Watch",
     "category": "Electronics",
     "category_bg_color": "#2ecc71",
     "card_bg_color": "#a9dfbf",
@@ -112,25 +110,13 @@
     "price": "$79.99"
   },
   {
-    "id": "11",
-    "image": "https://i.ibb.co/D59DknS/Education.png",
-     "title": "Portable Bluetooth Speaker",
+    "picture": "image12.jpg",
+    "title": "Portable Bluetooth Speaker",
     "category": "Electronics",
     "category_bg_color": "#2ecc71",
     "card_bg_color": "#a9dfbf",
     "text_button_bg_color": "#27ae60",
     "description": "Enjoy music on the go with this compact and powerful Bluetooth speaker. Exceptional sound quality.",
     "price": "$69.99"
-  },
-  {
-    "id": "12",
-    "image": "https://i.ibb.co/hs0YbF7/Food.png",
-   "title": "Smart Home Security System",
-    "category": "Electronics",
-    "category_bg_color": "#2ecc71",
-    "card_bg_color": "#a9dfbf",
-    "text_button_bg_color": "#27ae60",
-    "description": "Protect your home with the latest smart security system. Monitor and control from anywhere.",
-    "price": "$349.99"
   }
 ]
