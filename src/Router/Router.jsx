@@ -1,9 +1,9 @@
 import {  createBrowserRouter } from "react-router-dom";
 import MainLayout from "../layout/MainLayout";
 import Home from "../pages/Home/Home";
-import Favorites from "../pages/Favorites/Favorites";
 import ErrorPage from "../pages/ErrorPage/ErrorPage";
 import Card from "../pages/Card/Card";
+import Donation from "../pages/Donation/Donation";
 
 const myCreateRoute=createBrowserRouter([
     {
@@ -20,9 +20,10 @@ const myCreateRoute=createBrowserRouter([
                 element:<Home></Home>,
                 loader:()=>fetch('/phones.json')
             },
+          
             {
-                path:'/favorites',
-                element:<Favorites></Favorites>
+                path:'/donation',
+                element:<Donation></Donation>
             },
             {
                 path:'/CardDonate/:id',

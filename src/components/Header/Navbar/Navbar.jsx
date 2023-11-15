@@ -16,16 +16,17 @@ const Navbar = () => {
                             Home
                         </NavLink>
                     </li>
+                
                     <li>
                       
-                        <NavLink  to="/favorites"
-                            className={({ isActive, isPending }) =>
-                                isPending ? "pending" : isActive ? "active" : "bg-green-400"
-                            }>
-                        
-                        Donation
-                        </NavLink>
-                    </li>
+                      <NavLink  to="/donation"
+                          className={({ isActive, isPending }) =>
+                              isPending ? "pending" : isActive ? "active" : ""
+                          }>
+                      
+                      Donation
+                      </NavLink>
+                  </li>
                     <li>
                       
                         <NavLink  to="/statistics"
