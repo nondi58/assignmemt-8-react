@@ -1,5 +1,6 @@
 import React, { useEffect, useState } from 'react';
 import SingleCard from '../Card/SingleCard';
+import AnotherSingle from '../Card/AnotherSingle';
 
 const Donation = () => {
     const [donation,setDonation]=useState([]);
@@ -22,11 +23,11 @@ const Donation = () => {
            <div className="grid grid-cols-2 gap-5">
             {
                 isShow ? donation.map((cart) => (
-                    <SingleCard key={cart.id} cart={cart}></SingleCard>
+                    <AnotherSingle key={cart.id} cart={cart}></AnotherSingle>
                   )) 
                   
                   : donation.slice(0,4).map((cart) => (
-                    <SingleCard key={cart.id} cart={cart}></SingleCard>
+                    <AnotherSingle key={cart.id} cart={cart}></AnotherSingle>
                   ))
             }
           </div>
